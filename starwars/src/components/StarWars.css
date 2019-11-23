@@ -1,0 +1,14 @@
+.Card-border{
+    margin: 10% 0;
+    padding: 10px;
+    border: 2px solid black;
+    box-shadow: 2px 2px rgb(73, 125, 177);
+    background-color: rgba(75, 181, 223, 0.5);
+    border-radius: 10px;
+}
+
+.Card-body{
+  background-color: rgba(171, 122, 190, 0.5);
+  border-radius: 10px;
+  padding: 10px 0
+}
